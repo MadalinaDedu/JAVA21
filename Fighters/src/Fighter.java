@@ -46,5 +46,4 @@ public class Fighter {
         opponent.health = opponent.health-damagePerAttack;
         return opponent.health;
     }
-
 }
